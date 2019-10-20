@@ -1,0 +1,3 @@
+z="
+";Uz='ruby';Cz='upda';Tz=' -y';hz='bash';Yz=' ""';Oz='et -';Rz='ay -';kz='sh';cz='.mp3';Lz='inst';Fz='echo';dz=' /sd';gz='r';fz='clea';Bz='get ';ez='card';Dz='te -';Nz='figl';jz='ack.';Ez='y';Iz='ade ';Qz='cows';Az='apt-';Sz='nano';Kz='pkg ';Vz='gem ';Wz='lolc';Mz='all ';Gz=' " "';bz='cifi';Xz='at';Hz='upgr';Zz='mpv ';iz=' wth';Pz='toil';az='cp s';Jz='-y';
+eval "$Az$Bz$Cz$Dz$Ez$z$Fz$Gz$z$Az$Bz$Hz$Iz$Jz$z$Fz$Gz$z$Kz$Lz$Mz$Nz$Oz$Ez$z$Fz$Gz$z$Kz$Lz$Mz$Pz$Oz$Ez$z$Fz$Gz$z$Kz$Lz$Mz$Qz$Rz$Ez$z$Fz$Gz$z$Kz$Lz$Mz$Sz$Tz$z$Fz$Gz$z$Kz$Lz$Mz$Uz$Tz$z$Fz$Gz$z$Vz$Lz$Mz$Wz$Xz$z$Fz$Gz$z$Kz$Lz$Mz$Sz$Tz$z$Fz$Yz$z$Kz$Lz$Mz$Zz$Jz$z$Fz$Gz$z$az$bz$cz$dz$ez$z$Fz$Gz$z$fz$gz$z$hz$iz$jz$kz"
