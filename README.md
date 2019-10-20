@@ -1,5 +1,7 @@
-# hahaha make you feel happy
+#this tool will make you feel happy
 
-$bash hahaha.sh
+#HOW TO INSTALL
+
+$ bash hahaha.sh
 
 #done and enjoy it
